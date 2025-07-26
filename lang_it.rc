@@ -1,0 +1,68 @@
+// --- Barra delle applicazioni ---
+STRINGTABLE
+BEGIN
+IDS_TASKBAR_STYLE "Stile della barra delle applicazioni"
+IDS_STYLE_DEFAULT "Windows 11 (predefinito)"
+IDS_STYLE_CLASSIC "Windows 10"
+IDS_COMBINE_ICONS_LABEL "Combina le icone della barra delle applicazioni nella schermata principale"
+IDS_NEVER "Mai"
+IDS_WHEN_FULL "Quando la barra delle applicazioni è piena"
+IDS_ALWAYS "Sempre"
+IDS_CENTER_ICONS "Centra le icone sulla barra delle applicazioni"
+IDS_USE_START_BUTTON_ICON "Usa un'icona personalizzata per il pulsante Start"
+IDS_ENABLE_CLASSIC_TRAY "Abilita il comportamento classico dell'area di notifica"
+IDS_ENABLE_CLASSIC_TASKMGR "Apri il Gestione attività classico"
+IDS_SHOW_TASKBAR_SECONDS "Mostra i secondi nell'orologio di sistema"
+END
+
+// --- Menu Start ---
+STRINGTABLE
+BEGIN
+IDS_START_STYLE "Stile del menu Start"
+IDS_START_DEFAULT "Predefinito di Windows 11"
+IDS_START_CLASSIC "Stile di Windows 10"
+IDS_START_ALLAPPS "Apri Start nella sezione Tutte le app per impostazione predefinita"
+IDS_SHOW_RECOMMENDED "Mostra la sezione Consigliati"
+IDS_SHOW_MOST_USED "Mostra le app più utilizzate"
+IDS_DISABLE_WEB_SEARCH "Disattiva la ricerca web in Start"
+END
+
+// --- Area di notifica ---
+STRINGTABLE
+BEGIN
+IDS_SYSTEM_TRAY_STYLE "Stile dell'area di notifica"
+IDS_TRAY_DEFAULT "Predefinito di Windows 11"
+IDS_TRAY_CLASSIC "Stile di Windows 10"
+IDS_ENABLE_TRAY_CLOCK_DATE "Mostra la data nell'orologio della barra delle applicazioni"
+IDS_ENABLE_TRAY_CLOCK_SECONDS "Mostra i secondi nell'orologio della barra delle applicazioni"
+END
+
+// --- Esplora file ---
+STRINGTABLE
+BEGIN
+IDS_EXPLORER_SETTINGS "Impostazioni di Esplora file"
+IDS_USE_CLASSIC_CONTEXT_MENU "Usa i menu contestuali classici"
+IDS_DISABLE_COMMAND_BAR "Disattiva la barra dei comandi moderna"
+IDS_SHOW_FULL_PATH_TITLEBAR "Mostra il percorso completo nella barra del titolo"
+IDS_ENABLE_CLASSIC_SHELL "Abilita l'integrazione con la shell classica"
+END
+
+// --- Altro ---
+STRINGTABLE
+BEGIN
+IDS_OTHER_SETTINGS "Altre impostazioni"
+IDS_DISABLE_COPILOT "Disattiva il pulsante Copilot"
+IDS_DISABLE_ROUNDED_CORNERS "Disattiva gli angoli arrotondati"
+IDS_DISABLE_MICA_EFFECT "Disattiva l'effetto Mica"
+IDS_ENABLE_OLD_VOLUME_MIXER "Abilita il mixer del volume classico"
+IDS_ENABLE_CLASSIC_ALT_TAB "Usa il selettore Alt+Tab classico"
+END
+
+// --- Informazioni ---
+STRINGTABLE
+BEGIN
+IDS_ABOUT_TITLE "Informazioni su ExplorerPatcher"
+IDS_VERSION_LABEL "Versione"
+IDS_DEVELOPER_LABEL "Sviluppatore"
+IDS_GITHUB_LINK "Visita il progetto su GitHub"
+END
